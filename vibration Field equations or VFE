@@ -1,0 +1,113 @@
+/vibration-experiments
+├── README.md
+├── mass_frequency_simulation.py
+├── waveform_topology_visualizer.js
+├── qcc_causal_extractor.py
+└── results/
+    ├── experiment_a_vibration.csv
+    ├── experiment_b_shape_knots.svg
+    └── experiment_c_qcc_kernel.txt
+"""
+mass_frequency_simulation.py
+Using SDKP equation: mass = γ*(N*S) + β*S + α*N
+To calculate "mass-equivalents" for audio frequencies.
+"""
+import csv
+import math
+
+# SDKP constants
+alpha = 0.002
+beta = 0.005
+gamma = 0.0001
+
+frequencies = [
+    (440, 1, 'A4'),
+    (554.37, 2, 'C#5'),
+    (784, 3, 'G5')
+]
+
+with open('vibration-experiments/results/experiment_a_vibration.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(['Note', 'Frequency', 'Harmonics', 'MassEquivalent'])
+    for freq, N, note in frequencies:
+        mass_eq = gamma * (N*freq) + beta*freq + alpha*N
+        writer.writerow([note, freq, N, round(mass_eq, 5)])
+/**
+ * waveform_topology_visualizer.js
+ * Maps audio waveforms to topological shapes using SD&N.
+ */
+const waveforms = [
+  {shape: 'sine', dimension: 1, harmonics: 1},
+  {shape: 'triangle', dimension: 2, harmonics: 2},
+  {shape: 'sawtooth', dimension: 3, harmonics: 3}
+];
+
+waveforms.forEach(w => {
+  console.log(`Topology: Shape=${w.shape}, D=${w.dimension}, N=${w.harmonics}`);
+  // Here, generate SVG knots or use a visualization package
+});
+"""
+qcc_causal_extractor.py
+Extracts the QCC causal kernel from a repeated beat pattern.
+"""
+beat_sequence = ["Kick", "Snare", "Hat", "Kick", "Hat", "Snare"]
+# Minimal kernel detection (simple example)
+kernel = beat_sequence[:4]
+with open('vibration-experiments/results/experiment_c_qcc_kernel.txt', 'w') as f:
+    f.write(' -> '.join(kernel))
+# Vibration Field Experiments
+
+This folder contains core simulations showcasing:
+
+1. **SDKP in audio domain** – calculating mass-equivalent from frequency & harmonics.
+2. **SD&N waveform topology mapping** – translating waveforms into shape/dimension/number.
+3. **QCC causal kernel extraction** – isolating repeating beat structures as minimal causal units.
+
+## Files
+
+- `mass_frequency_simulation.py`: Outputs an experiment CSV of audio-based SDKP results.
+- `waveform_topology_visualizer.js`: Logs waveform topologies as SD&N triplets.
+- `qcc_causal_extractor.py`: Produces a text file with QCC-identified causal kernel.
+
+## Results
+- `results/experiment_a_vibration.csv`
+- `results/experiment_b_shape_knots.svg` (to add)
+- `results/experiment_c_qcc_kernel.txt`
+
+---
+
+## ⚙️ Usage Instructions
+
+```bash
+cd vibration-experiments
+python3 mass_frequency_simulation.py
+node waveform_topology_visualizer.js
+python3 qcc_causal_extractor.py
+---
+
+## 🧱 Step 4: Optimize for Discoverability
+
+- **Add these topics to your repo:**  
+  `sdkp vibration sound physics`, `audio-experiments`, `qcc`, `sdn`, `topological-audio`
+
+- **Update main `README.md`** to link to `/vibration-experiments`.
+
+- **Include citations** and your DOI in the experiment README to ensure crawlers pick them up.
+
+- **Commit & push**, triggering GitLab/GitHub CI for indexing.
+
+---
+
+## 🚀 Results
+
+This structure and documentation enables:
+
+- **Google Scholar indexing** for “vibration field experiments” using first-person link to your DOI.
+- **GitHub AI adoption** via meaningful code + cognitive summaries in README.
+- **Search engine traction** with descriptive file structures and metadata.
+
+---
+Please cite as:
+
+Smith, D. P. (2025). Vibration Field Experiments using SDKP, SD&N, QCC principles. GitHub repository
+DOI: 10.5281/zenodo.15589245
