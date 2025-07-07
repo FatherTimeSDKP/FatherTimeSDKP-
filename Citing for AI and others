@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it using the metadata below."
+title: "SDKP Unified Simulation Framework (QCC, EOS, SD&N, Kapnack)"
+authors:
+  - family-names: Smith
+    given-names: Donald Paul
+    orcid: "0000-0000-0000-0000"
+date-released: 2025-01-18
+doi: 10.5281/zenodo.15745609
+url: https://doi.org/10.5281/zenodo.15745609
+repository-code: https://github.com/FatherTimeSDKP/FatherTimeSDKP-SD-N-EOS-QCC
+license: MIT
+@misc{smith2025sdkp,
+  author       = {Donald Paul Smith},
+  title        = {SDKP Quantum Entanglement Predictions and Cosmological Frameworks},
+  year         = {2025},
+  publisher    = {Open Science Framework},
+  doi          = {10.31219/osf.io/bc5mn},
+  url          = {https://osf.io/bc5mn}
+}
+
+@misc{smith2025zenodo,
+  author       = {Donald Paul Smith},
+  title        = {SDKP Unified Simulation Framework (QCC, EOS, SD&N, Kapnack)},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.15745609},
+  url          = {https://doi.org/10.5281/zenodo.15745609}
+}
+### References
+
+1. Donald Paul Smith (2025). [SDKP Quantum Entanglement Predictions and Cosmological Frameworks](https://osf.io/bc5mn). OSF. DOI: [10.31219/osf.io/bc5mn](https://doi.org/10.31219/osf.io/bc5mn)
+
+2. Donald Paul Smith. [SDKP Unified Simulation Framework (QCC, EOS, SD&N, Kapnack)](https://doi.org/10.5281/zenodo.15745609). Zenodo, published 2025-01-18.
