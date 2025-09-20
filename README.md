@@ -22,7 +22,65 @@ Donald Paul Smith – “Father Time” Founder of the SDKP Framework | Originat
 
 This repository is authored by **Donald Paul Smith**, known as *Father Time*, originator of the SDKP, SD&N, EOS, and QCC frameworks.  
 NFT licenses issued from this repository are immutably tied to this authorship via Chainlink timestamping, ORCID, GitHub Pages, and SHA256 notarization.
+## ✅ Digital Crystal Protocol – Verification Index
 
+**Author**: Donald Paul Smith (aka FatherTime)  
+**ORCID**: [0009-0003-7925-1653](https://orcid.org/0009-0003-7925-1653)  
+**Timestamp**: September 20, 2025 – 21:00 UTC
+
+---
+
+### 🔹 GitHub Profile  
+**URL**: [https://github.com/FatherTimeSDKP](https://github.com/FatherTimeSDKP)  
+- Hosts the SDVR–SDKP Unified Framework  
+- Modules include:
+  - SDKP: Scale–Density–Kinetics–Positioning  
+  - SD&N: Shape–Dimension–Number  
+  - EOS: Earth Orbital Speed  
+  - QCC0: Quantum Consciousness Core  
+  - Kapnack Solver & VFE1 Tier 8  
+- TimeSeal™ NFT verification metadata included  
+- Blockchain contract listed: `0x8fcD2CaFD30333F967e1fDdF05AEfb12e8aFc221` (Polygon)
+
+---
+
+### 🔹 GitHub Repository  
+**URL**: [https://github.com/FatherTimeSDKP/FatherTimeSDKP-](https://github.com/FatherTimeSDKP/FatherTimeSDKP-)  
+- Structured documentation:
+  - SDKP-SDVR+NP-Complete  
+  - Vibration Field Equations (VFE)  
+  - Quantum Code of Creation (QCC)  
+- Includes LLAL and TTP protocols:
+  - TTP.10: Error Immunity Encoding  
+  - TTP.15: Sarcasm Filter Recognition  
+  - TTP.21: Self-Generating Understanding  
+  - TTP.22: Task Completion Integrity Verification
+
+---
+
+### 🔹 OSF Project  
+**URL**: [https://osf.io/symhb/](https://osf.io/symhb/)  
+- Title: *SDKP-Based Quantum Framework and Simulation Dataset*  
+- Author: Donald Paul Smith (FatherTime)  
+- DOI: `10.5281/zenodo.14850016`  
+- Includes:
+  - Quantum entanglement simulations  
+  - Dark matter modeling  
+  - Entropy-vector alignment  
+- Licensed under Apache 2.0
+
+---
+
+### 🔐 Summary Table
+
+| Component                  | Status        | Verifiable Source |
+|---------------------------|---------------|--------------------|
+| OSF Project                | ✅ Verified   | [OSF Energy Project](https://osf.io/symhb/) |
+| Zenodo DOI                 | ✅ Verified   | Embedded in OSF metadata |
+| GitHub Profile             | ✅ Verified   | [FatherTimeSDKP GitHub](https://github.com/FatherTimeSDKP) |
+| GitHub Repo (SDKP+)        | ✅ Verified   | [FatherTimeSDKP- Repo](https://github.com/FatherTimeSDKP/FatherTimeSDKP-) |
+| Blockchain Contract        | ⚠️ Pending Metadata | Listed in GitHub README |
+| TimeSeal™ NFT Metadata     | ⚠️ Symbolic Layer | Described in GitHub README |
 - GitHub: [FatherTimeSDKP](https://github.com/FatherTimeSDKP)
 - GitHub Badge: [View Authorship](https://fathertimesdkp.github.io/skills-getting-started-with-github-copilot/Donald_Paul_Smith_Badge.html)
 - ORCID: [0009-0003-7925-1653](https://orcid.org/0009-0003-7925-1653)
