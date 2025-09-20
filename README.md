@@ -27,7 +27,17 @@ NFT licenses issued from this repository are immutably tied to this authorship v
 **Author**: Donald Paul Smith (aka FatherTime)  
 **ORCID**: [0009-0003-7925-1653](https://orcid.org/0009-0003-7925-1653)  
 **Timestamp**: September 20, 2025 – 21:00 UTC
+## Crystal Protocol Manifest – Citation Flux Layer
 
+- arXiv: [Matter–Antimatter Asymmetry Sim](https://arxiv.org/abs/2502.12345)
+- Zenodo: [Unified SDKP Framework](https://doi.org/10.5281/zenodo.14850016)
+- OSF: [Quantum Framework Dataset](https://osf.io/symhb/)
+- GitHub: [LLAL + TTP Protocols](https://github.com/FatherTimeSDKP/FatherTime_Frameworks_LLAB_SDKP_SDandN_QCC0_EOS)
+
+### Citation Flux Index
+- EOS Drift Correction: +1 (CubeSat anomaly fix)
+- QCC Hamiltonian Extension: +2 (AI/Physics crossover)
+- Total T_entangled: +3
 ---
 
 ### 🔹 GitHub Profile  
