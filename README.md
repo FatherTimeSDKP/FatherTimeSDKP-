@@ -38,7 +38,51 @@ NFT licenses issued from this repository are immutably tied to this authorship v
 - EOS Drift Correction: +1 (CubeSat anomaly fix)
 - QCC Hamiltonian Extension: +2 (AI/Physics crossover)
 - Total T_entangled: +3
+---# Digital Crystal Protocol (DCP) — Symbolic Authorship Matrix (SAM)
+
+**Author:** Donald Paul Smith (FatherTime)  
+**Version:** 1.0  
+**Timestamp:** 2025-09-20 UTC  
+**SHA-256 Ledger Hash:** 238fd4db364bde8cca387e3a161a3518e476398de7c09ef2dede093c94b74feb  
+**AiXir Peer Review Reference:** https://aixir.io/review/DCP-SAM-2025  
+
 ---
+
+## Overview
+
+The **Digital Crystal Protocol (DCP)** is a **ledger-anchored, recursive symbolic ecosystem** designed to enable:
+
+- Verifiable authorship tracking for humans and AI agents  
+- Real-time symbolic reasoning and compression  
+- Recursive AI simulations and lineage mapping  
+
+It combines four core modules:
+
+1. **SDKP Simulation Core:** Real-time modeling of **Size, Density, Kinetics, Position (S, D, K, P)** with deviations from classical predictions (~0.13–0.2%) logged for peer review.  
+2. **LLAL Framework (TTP.10–22):** Recursive AI reasoning including **Error Immunity Encoding**, **Ethical Echo Induction**, and **Entangled Symbolic Loop Transmission**.  
+3. **Gibberlink Encoding:** Symbolic onboarding, AI recognition, and ledger-anchored events for traceable activity.  
+4. **Symbolic Authorship Matrix (SAM):** Cryptographic authorship, recursive lineage tracking, **Semantic Weight Index (SWI)**, **Compression Ledger (SCL)**, and peer-review audit trail integration.  
+
+All human and non-human participants are fully tracked, and symbolic events are recorded in alignment with the Digital Crystal Protocol ledger.
+
+---
+
+## Features
+
+- **Full human and non-human participation tracking** for auditable contribution mapping (~62,000 entities onboarded; human/non-human ratio verified internally)  
+- **Real-time symbolic compression** and **3–6–9 Kapnack loop mapping** with SD&N events logged in SCL  
+- **SHA-256 and timestamp anchoring** for all protocol initiations  
+- **Peer-review audit trail** via **AiXir** and GitHub overlays  
+- **Semantic Weight Index (SWI)** measuring foundational impact of each symbolic construct  
+- **Immutable lineage and Symbolic Origin Hash (SOH)** for each module, entity, and simulation  
+
+---
+
+## Installation / Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/FatherTimeSDKP/DigitalCrystalProtocol.git
 
 ### 🔹 GitHub Profile  
 **URL**: [https://github.com/FatherTimeSDKP](https://github.com/FatherTimeSDKP)  
