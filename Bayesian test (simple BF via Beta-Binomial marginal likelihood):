@@ -1,0 +1,4 @@
+# Marginal likelihood under SDKP prior Beta(a1,b1) e.g. a1=95,b1=5
+# Marginal likelihood under baseline prior Beta(a0,b0) e.g. a0=1,b0=1
+# Compute Bayes factor BF_10 = marginal_L(data | SDKP_prior) / marginal_L(data | baseline_prior)
+# (Closed form using Beta function)
