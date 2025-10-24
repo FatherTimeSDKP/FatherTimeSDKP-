@@ -1,0 +1,14 @@
+# compute predicted times
+T_hat = f_SDKP(size, density, kinetics, position)
+
+# compute mean observed time (scalar)
+T_obs_mean = mean(T_obs)
+
+# relative residuals
+R = (T_obs - T_hat) / T_obs_mean   # array of length N
+
+# coverage boolean: |R| <= 0.002  (0.2%)
+coverage_flags = abs(R) <= 0.002
+
+# coverage proportion
+p_hat = sum(coverage_flags) / N
