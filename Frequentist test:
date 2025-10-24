@@ -1,0 +1,4 @@
+# Binomial test (H0: p <= 0.95 vs Ha: p > 0.95)
+# Using exact binomial test (one-sided)
+p_value = 1 - binom.cdf(k = sum(coverage_flags) - 1, n = N, p = 0.95)
+# Reject H_Falsification if p_value <= 0.01
