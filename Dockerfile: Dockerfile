@@ -1,0 +1,56 @@
+# ===============================
+# FatherTimeSDKP / QCC0 Framework
+# Reproducible container for data-driven falsification tests
+# ===============================
+
+# ---- Base image ----
+FROM python:3.11-slim
+
+# ---- Metadata (for traceability) ----
+LABEL maintainer="Donald Paul Smith (FatherTimeSDKP)"
+LABEL description="Container for SDKP/QCC0 falsification tests with DVC + Google Drive integration"
+LABEL version="1.0.0"
+
+# ---- System setup ----
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    git \
+    gcc \
+    g++ \
+    make \
+    libssl-dev \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# ---- Working directory ----
+WORKDIR /app
+
+# ---- Copy dependency lists ----
+COPY requirements.txt /app/requirements.txt
+
+# ---- Install Python dependencies ----
+RUN pip install --no-cache-dir --upgrade pip \
+ && pip install --no-cache-dir -r /app/requirements.txt
+
+# ---- Copy local source code ----
+COPY src/ /app/src/
+COPY dvc.yaml /app/
+COPY dvc.lock /app/
+COPY .dvc /app/.dvc
+COPY experiments/ /app/experiments/
+
+# ---- Environment variables ----
+ENV PYTHONUNBUFFERED=1 \
+    PIP_NO_CACHE_DIR=1 \
+    DVC_NO_ANALYTICS=1 \
+    DVC_CONFIG=/app/.dvc/config \
+    DVC_REMOTE=myremote
+
+# ---- Add Google Service Account Key (mounted at runtime) ----
+# Example:
+# docker run -v /path/to/key.json:/secrets/key.json:ro \
+#             -e GDRIVE_SERVICE_KEY=/secrets/key.json sdkp:latest
+ENV GDRIVE_SERVICE_KEY=/secrets/key.json
+
+# ---- Entrypoint ----
+# Default to bash for flexible use (can be overridden by docker run)
+ENTRYPOINT ["/bin/bash"]
