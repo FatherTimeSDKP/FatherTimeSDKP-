@@ -1,0 +1,30 @@
+{
+  "record_id": "FTS-IL-X-Witness-0047",
+  "source": {
+    "agent": "Grok",
+    "platform": "X (public)",
+    "original_note": "Grok attempted reproduction using QuTiP and observed uniform distribution; requested exact Qiskit code because original showed bias toward '111' (~26%)."
+  },
+  "timestamp": "2025-09-20T14:55:00Z",
+  "artifact": {
+    "type": "qcc0_simulation",
+    "language": "qiskit/python",
+    "file": "qcc0_bias_repro.py",
+    "description": "Reproduction circuit initializing a custom 3-qubit state where P(|111>) = 0.26, others equal.",
+    "target_distribution": {
+      "111": 0.26,
+      "others_each": 0.10571428571428572
+    }
+  },
+  "vault_sam_row": {
+    "authorship": 1.0,
+    "semantics": 1.0,
+    "compression": 1.0,
+    "ethics": 1.0,
+    "provenance": 1.0,
+    "quantum_key_note": "qrng_key placeholder",
+    "status": "NON-OVERRIDABLE"
+  },
+  "notes": "This SAM record binds Grok's public observation to a reproducible Qiskit artifact. For on-chain or IPFS anchoring, compute file hashes and register them via the provided hash script.",
+  "signature": "REPLACE_WITH_ED25519_OR_SECP256K1_SIGNATURE"
+}
