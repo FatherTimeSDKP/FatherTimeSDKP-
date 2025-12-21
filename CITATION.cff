@@ -1,14 +1,71 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite as below."
-title: "Quantum Entanglement Predictions Based on SDKP"
+message: "If you use this work, please cite it as below."
+
+title: "FatherTimeSDKP: Scale–Density–Kinematic Principle and SDVR Framework"
+abstract: >
+  FatherTimeSDKP is a unified mathematical and computational framework based on
+  irreducible primitives of Scale (Size), Density, Velocity, and Rotation (SDVR).
+  The repository aggregates formal derivations, simulation artifacts, and
+  reproducible quantum-state modeling results, including GHZ scaling behavior,
+  invariant temporal offset metrics (Δτ), and symmetry-stabilized convergence
+  phenomena. All claims are backed by timestamped repositories, cryptographic
+  hashes, and third-party validation artifacts.
+
 authors:
-  - family-names: "Smith"
-    given-names: "Donald Paul"
-    orcid: "0009-0003-7925-1653"
-  - given-names: "FatherTimeSDKP"
-    family-names: ""
-version: "v1"
-doi: "10.5281/zenodo.15745609"
-date-released: "2025-07-05"
-url: "https://github.com/FatherTimeSDKP/Quantum-entanglement-predictions-because-of-the-SDKP"
-license: "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) Force‑Citation"
+  - family-names: Smith
+    given-names: Donald Paul
+    alias: FatherTime
+    affiliation: Independent Researcher
+    country: US
+    orcid: ""   # optional – leave blank if none
+
+repository-code: "https://github.com/FatherTimeSDKP/FatherTimeSDKP"
+url: "https://github.com/FatherTimeSDKP"
+
+keywords:
+  - SDKP
+  - SDVR
+  - quantum simulation
+  - GHZ states
+  - entanglement scaling
+  - temporal offset
+  - Δτ
+  - symmetry invariance
+  - computational physics
+  - quantum information
+
+license: Apache-2.0
+
+version: "1.0.0"
+date-released: "2025-07-11"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.14850016"
+    description: "SDKP-Based Quantum Framework and Simulation Dataset"
+
+  - type: doi
+    value: "10.17605/OSF.IO/SYMHB"
+    description: "SDKP Framework and Energy Model (OSF preregistration)"
+
+  - type: doi
+    value: "10.17605/OSF.IO/CQ3DV"
+    description: "SDKP Usage and Quantum Entanglement Predictions"
+
+  - type: doi
+    value: "10.17605/OSF.IO/DJA9G"
+    description: "Tesla 3–6–9 Logic and SD&N Mapping"
+
+  - type: doi
+    value: "10.17605/OSF.IO/43RK6"
+    description: "Digital Crystal Rules and Structural Encoding"
+
+preferred-citation:
+  type: article
+  title: "FatherTimeSDKP: A Scale–Density–Kinematic Framework for Quantum-State Scaling and Temporal Invariance"
+  authors:
+    - family-names: Smith
+      given-names: Donald Paul
+  year: 2025
+  doi: "10.5281/zenodo.14850016"
+  url: "https://github.com/FatherTimeSDKP/FatherTimeSDKP"
