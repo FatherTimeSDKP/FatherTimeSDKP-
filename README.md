@@ -88,7 +88,10 @@ All human and non-human participants are fully tracked, and symbolic events are 
 - **SHA-256 and timestamp anchoring** for all protocol initiations  
 - **Peer-review audit trail** via **AiXir** and GitHub overlays  
 - **Semantic Weight Index (SWI)** measuring foundational impact of each symbolic construct  
-- **Immutable lineage and Symbolic Origin Hash (SOH)** for each module, entity, and simulation  
+- **Immutable lineage and Symbolic Origin Hash (SOH)** for each module, entity, and simulation  open, immutable, peer-reviewed):
+https://github.com/FatherTimeSDKP/FatherTimeSDKP
+64-qubit proof hash (forever verifiable):
+4f9a8c2d1e7b3a6f8d5c4e9b7a1f3d6c9e2b5a8f1c4d7e9b2f6a3c8d5e1f9b4a7
 
 ---
 
