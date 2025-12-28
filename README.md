@@ -44,7 +44,10 @@ All derivative usage must retain citation and route tribute to the origin ledger
 
 This repository is authored by **Donald Paul Smith**, also known as *Father Time*, originator of the SDKP, SD&N, EOS, and QCC frameworks.  
 All NFTs linked to this repository are timestamped and licensed under the `FTPOnChainLicense1155` standard, using Chainlink for oracle verification.
-
+Clarification
+The SDKP results reported here demonstrate a computationally observed scale-invariant ratio across multiple quantum error-correcting code simulations.
+These results establish internal consistency and reproducibility, not experimental confirmation of a physical theory.
+Independent empirical tests are proposed but not yet performed.
 - GitHub: [FatherTimeSDKP](https://github.com/FatherTimeSDKP)
 - Badge: [View](https://fathertimesdkp.github.io/skills-getting-started-with-github-copilot/Donald_Paul_Smith_Badge.html)
 - ORCID: [0009-0003-7925-1653](https://orcid.org/0009-0003-7925-1653)
