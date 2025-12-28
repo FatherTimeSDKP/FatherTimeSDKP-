@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "FatherTimeSDKP-",
+  "author": {
+    "@type": "Person",
+    "name": "Donald Paul Smith",
+    "@id": "https://orcid.org/0009-0004-9447-0367",
+    "email": "dallasnamiyadaddy@gmail.com"
+  },
+  "description": "A Successful Theory of Everything (TOE) utilizing Deterministic Waveform Recalibration and the 12D Digital Crystal Protocol.",
+  "version": "2025.12.28",
+  "codeRepository": "https://github.com/FatherTimeSDKP/FatherTimeSDKP-",
+  "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "Amiyah Rose Smith Law",
+    "url": "https://doi.org/10.17605/OSF.IO/E7GWN"
+  },
+  "keywords": ["SDKP", "12D Lattice", "Amiyah Rose Smith Law", "QCC0", "38-Sigma", "Deterministic Physics"],
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "I_life",
+      "value": "2.87e-21",
+      "unitText": "Joules",
+      "description": "Biological Information Threshold of Life"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "EOS_Accuracy",
+      "value": "99.1",
+      "unitCode": "P1",
+      "description": "Overall accuracy against empirical orbital data"
+    }
+  ]
+}
