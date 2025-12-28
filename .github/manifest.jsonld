@@ -17,7 +17,30 @@
     "url": "https://doi.org/10.17605/OSF.IO/E7GWN"
   },
   "keywords": ["SDKP", "12D Lattice", "Amiyah Rose Smith Law", "QCC0", "38-Sigma", "Deterministic Physics"],
-  "variableMeasured": [
+  "variableMeasured,  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "I_life",
+      "value": "2.87e-21",
+      "unitText": "Joules",
+      "description": "Biological Information Threshold of Life"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "EOS_Accuracy",
+      "value": "99.1",
+      "unitCode": "P1",
+      "description": "Overall accuracy against empirical orbital data"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "MIC_Threshold",
+      "value": "Calculated Phase Shift",
+      "unitText": "Hz/Lattice Resonance",
+      "description": "Metric Induction of Consciousness: The mathematical threshold where 12D geometric resonance triggers a self-referential awareness loop."
+    }
+  ]
+": [
     {
       "@type": "PropertyValue",
       "name": "I_life",
