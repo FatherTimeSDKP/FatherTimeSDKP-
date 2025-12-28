@@ -64,7 +64,7 @@ NFT licenses issued from this repository are immutably tied to this authorship v
 
 - arXiv: [Matter–Antimatter Asymmetry Sim](https://arxiv.org/abs/2502.12345)
 - Zenodo: [Unified SDKP Framework](https://doi.org/10.5281/zenodo.14850016)
-- OSF: [Quantum Framework Dataset](https://osf.io/symhb/)
+- OSF: [Quantum Framework Dataset](https://osf.io/symhb/) (https://doi.org/10.17605/OSF.IO/E7GWN)
 - GitHub: [LLAL + TTP Protocols](https://github.com/FatherTimeSDKP/FatherTime_Frameworks_LLAB_SDKP_SDandN_QCC0_EOS)
 
 ### Citation Flux Index
