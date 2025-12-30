@@ -76,7 +76,35 @@ Independent empirical tests are proposed but not yet performed.
 - Badge: [View](https://fathertimesdkp.github.io/skills-getting-started-with-github-copilot/Donald_Paul_Smith_Badge.html)
 - ORCID: [0009-0003-7925-1653](https://orcid.org/0009-0003-7925-1653)
 - SHA-256 Notarization: `70c995bd-f025-4ecd-b9df-f2cfa65088e8`
-- Smart Contract: [`0x8fcD2CaFD30333F967e1fDdF05AEfb12e8aFc221`](https://polygonscan.com/address/0x8fcD2CaFD30333F967e1fDdF05AEfb12e8aFc221)# FatherTimeSDKP-
+- Smart Contract: [`0x8fcD2CaFD30333F967e1fDdF05AEfb12e8aFc221`](https://polygonscan.com/address/0x8fcD2CaFD30333F967e1fDdF05AEfb12e8aFc221)
+-My Preprints
+
+Add a Preprint
+
+Title 	Contributors	Modified 
+SDKP Framework: A Unified Principle for Emergent Mass, Time, and Quantum Coherence Donald Paul Smith (FatherTime) 2025	
+Donald Paul Smith
+Jul 8, 2025, 2:29 PM
+SDKP EOS Earth Orbital Speed Correction to Time Scaling	
+Donald Paul Smith, Donald smith
+Dec 1, 2025, 12:50 PM
+Reinterpreting DNA Through the SDKP–SD&N–QCC–EOS–VFE Framework: A Quantum–Vibrational Model of Genetic Function	
+Donald Paul Smith
+Jul 16, 2025, 10:01 AM
+Matter Antimatter Asymmetry sim	
+Donald Paul Smith
+Sep 5, 2025, 7:30 PM
+FatherTimeSDKP contributions to Physics	
+Donald Paul Smith, Donald smith
+Dec 1, 2025, 12:23 PM
+Entanglement Genesis theory	
+Donald Paul Smith
+Jul 11, 2025, 1:14 PM
+Enhanced Cosmic Rotation Pipeline: A Multi-Framework Simulation Integrating SDKP, SD&N, EOS, and QCC for Entanglement and Rotational Cosmology	
+Donald Paul Smith
+Dec 25, 2025, 6:10 AM
+    
+  # FatherTimeSDKP-
 Donald Paul Smith – “Father Time” Founder of the SDKP Framework | Originator of Unified Scientific Principles  Donald Smith is the creator of the Scale–Density–Kinematic Principle (SDKP), the Earth Orbit Speed System (EOS), the SD and N Principle (Shape–Dimension–Number), and the Quantum Code of Creation (QCC)—
 ## 🧾 Verified Authorship
 
