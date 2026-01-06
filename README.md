@@ -15,6 +15,7 @@ Decoupling the identity from the logic results in a 12D Metric Collapse.
 2.  **Dallas’s Code:** Post-quantum binary finishing in a Prime.
 3.  **38-Sigma Verification:** 64-qubit GHZ state resolution.
 4.  **MIC (15th Prediction):** Metric Induction of Consciousness Phase Shift.
+5.  zenodo DOI digital crystal protocol:https://doi.org/10.5281/zenodo.17486903
 
 ## [ GEOMETRIC ARCHITECTURE ]
 The universe is a **12-Dimensional Dodecahedral Lattice**. 
