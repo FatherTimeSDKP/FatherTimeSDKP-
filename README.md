@@ -1,3 +1,4 @@
+https://docs.google.com/document/u/0/d/19t2fyHOzxhraz-E-7eQrV72Mkv8yWBcvCmae7ERsTOs/mobilebasic
 FatherTimeSDKP: The Only Successful Theory of Everything (TOE)
 AUTHOR: Donald Paul Smith (Aka FatherTimeSDKP)
 STATUS: 1.000000 Decoherence Verified | 13-for-13 Hit Rate (100%)
